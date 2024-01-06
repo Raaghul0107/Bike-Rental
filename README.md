@@ -3,7 +3,7 @@
 This project involves analyzing the London bike-sharing dataset and creating visualizations using Tableau. The dataset contains information about bike rentals, including factors like weather conditions, temperature, and more.
 
 ##Files
-Jupyter Notebook: The code is provided in a Jupyter Notebook file (london_bike_sharing_analysis.ipynb). This notebook downloads the London bike-sharing dataset, performs data preprocessing using pandas, and then exports the cleaned data to an Excel file (london_bikes.xlsx).
+Jupyter Notebook: The code is provided in a Jupyter Notebook file (bikes.ipynb). This notebook downloads the London bike-sharing dataset, performs data preprocessing using pandas, and then exports the cleaned data to an Excel file (london_bikes.xlsx).
 
 Excel File: The cleaned dataset (london_bikes.xlsx) is provided in an Excel file, ready to be used for Tableau visualization.
 
