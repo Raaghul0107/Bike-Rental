@@ -16,7 +16,7 @@ Export to Excel: The final cleaned dataset is exported to an Excel file (london_
 
 Tableau Visualization: After exporting the dataset, you can use Tableau to create visualizations and gain insights into bike-sharing patterns based on different factors such as weather, temperature, and season. ( IMAGE AND LINK INCLUDED)
 
-## TABLEAU LINK FOT THE DASHBOARD - https://public.tableau.com/views/BIKERENTAL_17034106890040/LondonBikeRental?:language=en-US&:display_count=n&:origin=viz_share_link
+## TABLEAU LINK FOR THE DASHBOARD - https://public.tableau.com/views/BIKERENTAL_17034106890040/LondonBikeRental?:language=en-US&:display_count=n&:origin=viz_share_link
 ## Dependencies
 Python 3.x
 Jupyter Notebook
